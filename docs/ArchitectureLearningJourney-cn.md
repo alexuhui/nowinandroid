@@ -16,25 +16,6 @@
 
 该应用程序架构有三个层次结构：[数据层](https://developer.android.com/jetpack/guide/data-layer)、[领域层](https://developer.android.com/jetpack/guide/domain-layer)和[UI层](https://developer.android.com/jetpack/guide/ui-layer)。
 
-
-# Architecture Learning Journey
-
-在这个学习之旅中，你将了解Now in Android应用程序的架构：其层次结构、关键类以及它们之间的交互。
-
-## 目标和要求
-
-该应用程序架构的目标有：
-
-- 尽可能地遵循[官方架构指南](https://developer.android.com/jetpack/guide)。
-- 对开发人员易于理解，不涉及太多实验性的内容。
-- 支持多名开发人员共同在同一代码库上工作。
-- 便于在开发人员的机器上进行本地和仪表化测试，以及使用持续集成（CI）。
-- 最小化构建时间。
-
-## 架构概述
-
-该应用程序架构有三个层次结构：[数据层](https://developer.android.com/jetpack/guide/data-layer)、[领域层](https://developer.android.com/jetpack/guide/domain-layer)和[UI层](https://developer.android.com/jetpack/guide/ui-layer)。
-
 <center>
 <img src="images/architecture-1-overall.png" width="600px" alt="Diagram showing overall app architecture" />
 </center>
